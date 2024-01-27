@@ -1,6 +1,7 @@
 # Manichanh Satdichanh, PhD
 ## Ecologist / Data Sciencetist
 
+##### Postdoctoral Researcher, University of Hawaii at Manoa
 
 ##### Technical Skills: 
 R, QGIS, beginer Python
