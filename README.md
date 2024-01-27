@@ -16,25 +16,16 @@ Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Bus
 
 #### Postdoctoral Researcher | University of Hawaiʻi | 2023 - present
 ##### Responsibilities: 
--	extracting data, 
--	data management, data cleaning, data analysis
--	writes scientific publications
-b)	HI-Traits EPSCoR Project. Functional trait analysis of Hawaiian plant. 
-Responsibilities:
--	co-supervise graduate students
--	data extraction, data management, data cleaning, data analysis
--	writes scientific publications
-2.	Affiliate Graduate Faculty, 6/2022-present. Department of Natural Resources and Environmental Management, College of Tropical Agriculture and Human Resources. University of Hawaiʻi at Mānoa.
-Responsibilities:
--	Supervise graduate students in ecology
--	Participates in the graduate committee activity
-3.	Postdoctoral fellow, 9/2021-8/2023. Centre for Mountain Futures & ICRAF East & Central Asia. Kunming Institute of Botany, Chinese Academy of Sciences
-Mekong Sentinel Landscape Project. 
-Responsibilities:
--	Team leader
--	data management, data analysis
--	writes scientific publications 
--	international collaborations.
+Developing data analysis protocal | Meta-analysis | Data mining | Data extraction | Data wranging | Data analysis | Writing and publishing scientific papers
+
+#### Affiliate Graduate Faculty | University of Hawaiʻi | 2022 - present
+##### Responsibilities:
+Supervise graduate students
+  
+#### Postdoctoral Researcher | Centre for Mountain Futures / ICRAF East & Central Asia | Kunming Institute of Botany, CAS | 2021 - 2023
+##### Responsibilities:
+Developing data analysis protocal | Data management | Data analysis | Writing and publishing scientific papers | International collaborations
+
 4.	Lecturer, 9/2019-12/2020. Faculty of Forestry, National University of Laos
 5.	Team leader, 4/2014 –9/2016. World Agroforestry Centre, East & Central Asia. Mekong Sentinel Landscape Project
 6.	Assistant to project manager & country director, 11/2012 –3/2013. Triangle Generation Humanitaire (TGH), Laos
