@@ -1,4 +1,4 @@
-# Ecologist/Data Scienctist
+# Ecologist/Data Sciencetist
 
 #### Technical Skills: 
 R, QGIS, beginer Python
