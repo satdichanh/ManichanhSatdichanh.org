@@ -3,18 +3,7 @@
 #### Technical Skills: R, QGIS, beginer Python
 
 #### Data Science Skills: 
-•	Business descriptive & inferential statistics
-•	Statistical hypothesis testing 
-•	Advance statistical modeling and analysis
-•	Cluster analysis, ANOVA, ANCOVA, Regression, Network analysis, Path analysis, Structural Equation Modeling
-•	Bayesian statistics and machine learning in R
-•	Data mining, data management, data cleaning and data wrangling 
-•	Data visualization
-•	Spatial analysis
-•	Experimental design
-•	Project management and Leadership
-•	Land navigation, forest inventory, plant identification, mapping
-•	Environmental and Socio- impact assessment
+Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Business descriptive & inferential statistics | Hypothesis testing | Advance statstical modeling | Cluster analysis | ANOVA & ANCOVA | Regression | Network analysis | Factor analysis | Data mining | Data wrangling | Data visualization 
 
 ### Education
 
