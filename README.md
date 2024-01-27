@@ -47,7 +47,7 @@ Responsibilities: Logistics | Co-supervise the team | Irrigation site survey | W
 3. Earth Systems Laos | Sept 2010 – March 2011
 Responsibilities: Leading biodiversity & socio-economic surveys | Data management | Data analysis | Writing report
 
-#### Project coordinator &  database developer | Institude Rcherche pour le Developpement au Laos & National University of Laos | 2010 – 2011. 
+#### Database developer | Institude Rcherche pour le Developpement au Laos & National University of Laos | 2010 – 2011. 
 
 #### Visiting scholar:
 1. University of Copenhagen, Denmark | Sept 2009 – Jan 2010
