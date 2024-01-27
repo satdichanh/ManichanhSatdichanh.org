@@ -1,7 +1,8 @@
 # Ecologist/Data Scienctist
 
-Technical Skills: R, QGIS, beginer Python
-Data Science Skills: 
+#### Technical Skills: R, QGIS, beginer Python
+
+#### Data Science Skills: 
 •	Business descriptive & inferential statistics
 •	Statistical hypothesis testing 
 •	Advance statistical modeling and analysis
