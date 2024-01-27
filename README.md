@@ -53,9 +53,8 @@ Leiden University, Netherlands | Jan 2009
 [ISland Leaf Ecophysiological Trait Synthesis](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/islets/)
 
 Developing an open access global Island plant functional trait database
+![IMG_9594](https://github.com/satdichanh/datascience-portfolio.org/assets/50197613/cce102c3-9340-43df-99b5-60a06611fbda)
 
-
-<img width="644" alt="Screenshot 2024-01-26 at 9 57 35 PM" src="https://github.com/satdichanh/datascience-portfolio.org/assets/50197613/16c99a5c-822c-4453-b865-2e9e2826f448">
 
 [Hawai‘i EPSCoR Project, Functional Trait Analysis](https://hawaii.edu/epscor/functional-trait-analysis/)
 Developing Hawaiian plant functional traits database and characterize how plant functional traits vary with environmental condition under current climate change
