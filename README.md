@@ -1,4 +1,4 @@
-# Ecologist/Data Sciencetist
+# Ecologist / Data Sciencetist
 
 
 ##### Technical Skills: 
@@ -68,4 +68,12 @@ Responsibilities: Leading biodiversity & socio-economic surveys | Data managemen
 ![IMG_8344](https://github.com/satdichanh/datascience-portfolio.org/assets/50197613/ca2a67f5-6654-4838-bafb-122df753cd2a)
 
 
+## Publications
+1.	Cooper, D. et.al. (2024). Consistent patterns of common species across tropical tree communities. Nature 20–24. https://doi.org/10.1038/s41586-023-06820-z
+2.	Satdichanh, M. et.al. (2023). Drivers of soil organic carbon stock during tropical forest succession. Journal of Ecology, April, 1–13. https://doi.org/10.1111/1365-2745.141413
+3.	Muscarella, R. et.al. (2020). The global abundance of tree palms. Global Ecology and Biogeography, 29(9), 1495–1514. doi: 10.1111/geb.13123
+4.	Satdichanh, M. et.al. (2018). Phylogenetic diversity correlated with above-ground biomass production during forest succession: Evidence from tropical forests in Southeast Asia. Journal of Ecology, (March), 1–14. doi:10.1111/1365-2745.13112
+5.	Satdichanh, M. et.al. (2018) Using Plant Functional Traits and Phylogenies to Understand Patterns of Plant Community Assembly in a Seasonal Tropical Forest in Lao PDR. Zang R, editor. doi:10.1371/journal.pone.0130151
+6.	Slik, JWF. Et.al. (2015) An estimate of the number of tropical tree species. Proc Natl Acad Sci. 2015; 112: 7472– 7477. doi:10.1073/pnas.1423147112.
+7.	Satdichanh M, Millet J, Heinimann A, Nanthavong K, Harrison RD. Tree distribution in Phou Khao Khoauy National Park, Laos. 2015;44. doi:10.16473/j.cnki.xblykx1972.20
 
