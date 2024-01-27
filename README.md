@@ -14,33 +14,32 @@ B.S | Forestry | National University of Laos | 2008
 
 ### Work Experience
 #### Postdoctoral Researcher | University of Hawaiʻi | 2023 - present
-##### Responsibilities: 
+Responsibilities: 
 Developing data analysis protocal | Meta-analysis | Data mining | Data extraction | Data wranging | Data analysis | Writing and publishing scientific papers
 
 #### Affiliate Graduate Faculty | University of Hawaiʻi | 2022 - present
-##### Responsibilities:
+Responsibilities:
 Supervise graduate students
   
 #### Postdoctoral Researcher | Centre for Mountain Futures / ICRAF East & Central Asia | Kunming Institute of Botany, CAS | 2021 - 2023
-##### Responsibilities:
+Responsibilities:
 Developing data analysis protocal | Data management | Data analysis | Writing and publishing scientific papers | International collaborations
 
 #### Lecturer | National University of Laos | 2019 - 2020
 
 #### Team leader | World Agroforestry Centre | Laos - China - Thailand | 2014 – 2016
-##### Mekong Sentinel Landscape Project
-##### Responsibilities:
+Responsibilities:
 Leading Biophysical surveys | Data management | Developing database | Developing data analysis protocols | Plant identification
 
 #### Assistant to country director | Triangle Generation Humanitaire - Laos | 2012 – 2013
-##### Responsibilities:
+Responsibilities:
 Logistics | Co-supervise the team | Irrigation site survey | Working with local community
 
 #### Biodiversity specialist 
 #### Ministry of Agriculture and Forestry - Laos | May - July 2011
 #### Japan Volunteer Research Centre - Laos | Jan - Aug 2011
 #### Earth Systems Laos | Sept 2010 – March 2011
-##### Responsibilities:
+Responsibilities:
 Leading biodiversity & socio-economic surveys | Data management | Data analysis | Writing report
 
 #### Project coordinator &  database developer | Institude Rcherche pour le Developpement au Laos & National University of Laos | 2010 – 2011. 
@@ -49,7 +48,14 @@ Leading biodiversity & socio-economic surveys | Data management | Data analysis 
 University of Copenhagen, Denmark | Sept 2009 – Jan 2010
 Leiden University, Netherlands | Jan 2009
 
-### Publications
+### Projects
+### ISland Leaf Ecophysiological Trait Synthesis
+Developing an open access global Island plant functional trait database
+![60B82034-558B-4D19-8396-2623812919C2_1_201_a](https://github.com/satdichanh/datascience-portfolio.org/assets/50197613/0d62b56b-20a6-4250-a355-209abc9acc39)
+
+
+
+
 
 
 
