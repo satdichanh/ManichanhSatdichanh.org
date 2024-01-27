@@ -7,10 +7,10 @@ Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Bus
 
 ### Education
 
-- Certificate | Business Statistics | Cornell University | 2020
-- Ph.D | Botany | Plant Community Ecology | Kunming Institute of Botany, CAS | 2019
-- M.S | Ecology | Xishuangbanna Tropical Botanical Garden, CAS | 2015
-- B.S | Forestry | National University of Laos | 2008
+##### Certificate | Business Statistics | Cornell University | 2020
+##### Ph.D | Botany | Plant Community Ecology | Kunming Institute of Botany, CAS | 2019
+##### M.S | Ecology | Xishuangbanna Tropical Botanical Garden, CAS | 2015
+##### B.S | Forestry | National University of Laos | 2008
 
 ### Work Experience
 
