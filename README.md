@@ -6,13 +6,13 @@ R, QGIS, beginer Python
 #### Data Science Skills: 
 Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Business descriptive & inferential statistics | Hypothesis testing | Advance statstical modeling | Cluster analysis | ANOVA & ANCOVA | Regression | Network analysis | Factor analysis | Data mining | Data wrangling | Data visualization 
 
-### Education
+## Education
 Certificate | Business Statistics | Cornell University | 2020
 Ph.D | Botany | Plant Community Ecology | Kunming Institute of Botany, CAS | 2019
 M.S | Ecology | Xishuangbanna Tropical Botanical Garden, CAS | 2015
 B.S | Forestry | National University of Laos | 2008
 
-### Work Experience
+## Work Experience
 #### Postdoctoral Researcher | University of Hawaiʻi | 2023 - present
 Responsibilities: 
 Developing data analysis protocal | Meta-analysis | Data mining | Data extraction | Data wranging | Data analysis | Writing and publishing scientific papers
@@ -48,7 +48,7 @@ Leading biodiversity & socio-economic surveys | Data management | Data analysis 
 University of Copenhagen, Denmark | Sept 2009 – Jan 2010
 Leiden University, Netherlands | Jan 2009
 
-### Projects
+## Projects
 
 [ISland Leaf Ecophysiological Trait Synthesis](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/islets/)
 
@@ -57,8 +57,10 @@ Developing an open access global Island plant functional trait database
 
 <img width="644" alt="Screenshot 2024-01-26 at 9 57 35 PM" src="https://github.com/satdichanh/datascience-portfolio.org/assets/50197613/16c99a5c-822c-4453-b865-2e9e2826f448">
 
+[Hawai‘i EPSCoR Project, Functional Trait Analysis](https://hawaii.edu/epscor/functional-trait-analysis/)
+Developing Hawaiian plant functional traits database and characterize how plant functional traits vary with environmental condition under current climate change
 
-
+![IMG_8344](https://github.com/satdichanh/datascience-portfolio.org/assets/50197613/ca2a67f5-6654-4838-bafb-122df753cd2a)
 
 
 
