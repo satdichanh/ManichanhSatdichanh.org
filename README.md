@@ -1,4 +1,5 @@
-# Ecologist / Data Sciencetist
+# Manichanh Satdichanh, PhD
+## Ecologist / Data Sciencetist
 
 
 ##### Technical Skills: 
