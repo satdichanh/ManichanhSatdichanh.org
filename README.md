@@ -57,7 +57,7 @@ Leiden University, Netherlands | Jan 2009
 
 
 
-###[Hawai‘i EPSCoR Project, Functional Trait Analysis](https://hawaii.edu/epscor/functional-trait-analysis/)
+### [Hawai‘i EPSCoR Project, Functional Trait Analysis](https://hawaii.edu/epscor/functional-trait-analysis/)
 
 
 #### Developing Hawaiian plant functional traits database and characterize how plant functional traits vary with environmental condition under current climate change
