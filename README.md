@@ -26,17 +26,29 @@ Supervise graduate students
 ##### Responsibilities:
 Developing data analysis protocal | Data management | Data analysis | Writing and publishing scientific papers | International collaborations
 
-4.	Lecturer, 9/2019-12/2020. Faculty of Forestry, National University of Laos
-5.	Team leader, 4/2014 –9/2016. World Agroforestry Centre, East & Central Asia. Mekong Sentinel Landscape Project
-6.	Assistant to project manager & country director, 11/2012 –3/2013. Triangle Generation Humanitaire (TGH), Laos
-7.	Biodiversity specialist, 5-7/2011. Ministry of Agriculture and Forestry. Sustainable Forestry and Rural Development Project (SUFORD)
-8.	Non-timber forest products specialist (NTFPs), 1-8/ 2011. Japan Volunteer Research Centre Laos (JVC)
-9.	Biodiversity and NTFPs specialist, 9/2010 – 3/ 2011. Earth Systems Laos (ESL)
-10.	Project coordinator and database developer, 4/2010 – 8/2011. Institude Rcherche pour le Developpement (IRD) au Laos, and Faculty of Forestry, National University of Laos
-11.	Visiting scholar, 9/2009 – 1/2010. University of Copenhagen, Denmark
-12.	Visiting scholar, 1/2009. Leiden University, Netherlands
-13.	Researcher, 11/2005 – 9/2006. Lao National Agriculture and Forestry Research Institute and Food and Agriculture Organization of the United Nations (FAO, Laos)
-14.	Teaching assistant, 9/2005-7/2011. Faculty of Forestry, National University of Laos
+#### Lecturer | National University of Laos | 2019 - 2020
+
+#### Team leader | World Agroforestry Centre | Laos - China - Thailand | 2014 – 2016
+##### Mekong Sentinel Landscape Project
+##### Responsibilities:
+Leading Biophysical surveys | Data management | Developing database | Developing data analysis protocols | Plant identification
+
+#### Assistant to country director | Triangle Generation Humanitaire - Laos | 2012 – 2013
+##### Responsibilities:
+Logistics | Co-supervise the team | Irrigation site survey | Working with local community
+
+#### Biodiversity specialist 
+#### Ministry of Agriculture and Forestry - Laos | May - July 2011
+#### Japan Volunteer Research Centre - Laos | Jan - Aug 2011
+#### Earth Systems Laos | Sept 2010 – March 2011
+##### Responsibilities:
+Leading biodiversity & socio-economic surveys | Data management | Data analysis | Writing report
+
+#### Project coordinator &  database developer | Institude Rcherche pour le Developpement au Laos & National University of Laos | 2010 – 2011. 
+
+#### Visiting scholar 
+#### University of Copenhagen, Denmark | Sept 2009 – Jan 2010
+#### Leiden University, Netherlands | Jan 2009
 
 
 
