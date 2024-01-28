@@ -81,3 +81,8 @@ Responsibilities: Leading biodiversity & socio-economic surveys | Data managemen
 6.	Slik, JWF. Et.al. (2015) An estimate of the number of tropical tree species. Proc Natl Acad Sci. 2015; 112: 7472– 7477. doi:10.1073/pnas.1423147112.
 7.	Satdichanh M, Millet J, Heinimann A, Nanthavong K, Harrison RD. Tree distribution in Phou Khao Khoauy National Park, Laos. 2015;44. doi:10.16473/j.cnki.xblykx1972.20
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
