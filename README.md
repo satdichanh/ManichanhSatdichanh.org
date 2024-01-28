@@ -61,7 +61,7 @@ Responsibilities: Leading biodiversity & socio-economic surveys | Data managemen
 
 <br>
 
-## Publications
+# Publications
 1.	Cooper, D. et.al. (2024). Consistent patterns of common species across tropical tree communities. Nature 20–24. https://doi.org/10.1038/s41586-023-06820-z
 2.	Satdichanh, M. et.al. (2023). Drivers of soil organic carbon stock during tropical forest succession. Journal of Ecology, April, 1–13. https://doi.org/10.1111/1365-2745.141413
 3.	Muscarella, R. et.al. (2020). The global abundance of tree palms. Global Ecology and Biogeography, 29(9), 1495–1514. https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13123
