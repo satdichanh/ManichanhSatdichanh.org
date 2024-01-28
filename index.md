@@ -1,3 +1,9 @@
+---
+title: About
+layout: template
+filename: index.md
+--- 
+
 # Manichanh Satdichanh, PhD
 ## Ecologist / Data Scientist
 
