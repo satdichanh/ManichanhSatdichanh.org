@@ -10,7 +10,7 @@ R, QGIS, beginer Python
 Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Business descriptive & inferential statistics | Hypothesis testing | Advance statstical modeling | Cluster analysis | ANOVA & ANCOVA | Regression | Network analysis | Factor analysis | Data mining | Data wrangling | Data visualization 
 
 ## Data Science Blogs
-[Ecology and Datasience](https://rpubs.com/satdichanhRmarkdown/1142489)
+[Ecology and Data Science](https://rpubs.com/satdichanhRmarkdown/1142489)
 
 ## Education
 
