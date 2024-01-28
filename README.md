@@ -80,9 +80,3 @@ Responsibilities: Leading biodiversity & socio-economic surveys | Data managemen
 5.	Satdichanh, M. et.al. (2018) Using Plant Functional Traits and Phylogenies to Understand Patterns of Plant Community Assembly in a Seasonal Tropical Forest in Lao PDR. Zang R, editor. http://dx.plos.org/10.1371/journal.pone.0130151
 6.	Slik, JWF. Et.al. (2015) An estimate of the number of tropical tree species. Proc Natl Acad Sci. 2015; 112: 7472– 7477. doi:10.1073/pnas.1423147112.
 7.	Satdichanh M, Millet J, Heinimann A, Nanthavong K, Harrison RD. Tree distribution in Phou Khao Khoauy National Park, Laos. 2015;44. doi:10.16473/j.cnki.xblykx1972.20
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
