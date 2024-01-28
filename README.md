@@ -1,5 +1,5 @@
 # Manichanh Satdichanh, PhD
-## Ecologist / Data Sciencetist
+## Ecologist / Data Scientist
 
 ##### Postdoctoral Researcher, University of Hawaii at Manoa
 
