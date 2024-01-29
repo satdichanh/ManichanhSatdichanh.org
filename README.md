@@ -34,12 +34,15 @@ Responsibilities: Developing data analysis protocal | Data management | Data ana
 Responsibilities: Leading Biophysical surveys | Data management | Developing database | Developing data analysis protocols | Plant identification
 #### Assistant to country director | Triangle Generation Humanitaire - Laos | 2012 – 2013
 Responsibilities: Logistics | Co-supervise the team | Irrigation site survey | Working with local community
+
+#### Database developer | Institude Rcherche pour le Developpement au Laos & National University of Laos | 2010 – 2011. 
+
 #### Biodiversity specialist 
 1. Ministry of Agriculture and Forestry - Laos | May - July 2011
 2. Japan Volunteer Research Centre - Laos | Jan - Aug 2011
 3. Earth Systems Laos | Sept 2010 – March 2011
 Responsibilities: Leading biodiversity & socio-economic surveys | Data management | Data analysis | Writing report
-#### Database developer | Institude Rcherche pour le Developpement au Laos & National University of Laos | 2010 – 2011. 
+
 #### Visiting scholar:
 1. University of Copenhagen, Denmark | Sept 2009 – Jan 2010
 2. Leiden University, Netherlands | Jan 2009
@@ -55,7 +58,7 @@ Responsibilities: Leading biodiversity & socio-economic surveys | Data managemen
 <br> 
 
 ### [Hawai‘i EPSCoR Project, Functional Trait Analysis](https://hawaii.edu/epscor/functional-trait-analysis/)
-#### Developing Hawaiian plant functional traits database and characterize how plant functional traits vary with environmental condition under current climate change
+#### Developing Hawaiian plant functional traits database and characterize how plant functional traits vary with environmental condition under climate change
 
 ![IMG_8344](https://github.com/satdichanh/datascience-portfolio.org/assets/50197613/ca2a67f5-6654-4838-bafb-122df753cd2a)
 
