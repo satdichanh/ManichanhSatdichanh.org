@@ -3,7 +3,7 @@
 Postdoctoral Researcher, University of Hawaii at Manoa
 
 ##### Technical Skills: 
-R, QGIS, beginer Python
+R, SQL, QGIS, beginer Python
 
 ##### Data Science Skills: 
 Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Business descriptive & inferential statistics | Hypothesis testing | Advance statstical modeling | Cluster analysis | ANOVA & ANCOVA | Regression | Network analysis | Factor analysis | Data mining | Data wrangling | Data visualization 
