@@ -30,7 +30,8 @@
         <data class="u-url" href="{{ "/" | relative_url }}"></data>
   
         <div class="wrapper">
-          {%- if site.github_username -%}
+          
+    {% if site.show_contacts %}
     <ul class="contact-list">
       <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a>
       &emsp;
