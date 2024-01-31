@@ -12,7 +12,7 @@ R, SQL, QGIS, beginner Python
 Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Business descriptive & inferential statistics | Hypothesis testing | Advance statistical modeling | Cluster analysis | ANOVA & ANCOVA | Regression | Network analysis | Factor analysis | Data mining | Data wrangling | Data visualization 
 
 ### Contacts
-#### [Manichanh Satdichanh](mailto:satdicha@hawaii.edu?subject=[GitHub]satdichanh)
+#### [Email](mailto:satdicha@hawaii.edu?subject=[GitHub]satdichanh)
 #### [Linkedin](https://www.linkedin.com/in/manichanhsatdichanh2019/)
 
 <br>
