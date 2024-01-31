@@ -2,16 +2,16 @@
 ## Ecologist / Data Scientist
 Postdoctoral Researcher, University of Hawaii at Manoa
 
-## About me
-I am an ecologist and data scientist studying plant fucntioanl ecology and anthropogenic disturbance under climate change. I have more than 15 years of experience working with various type of national / international organizations and consulting firm with strong rearch professional, data analysis, project management, leadership and critical thinking
+### About me
+I am an ecologist and data scientist studying plant functional ecology and anthropogenic disturbance under climate change. I have more than 15 years of experience working with various types of national/international organizations and consulting firms with strong research professional, data analysis, project management, leadership, and critical thinking skills
 
 ### Technical Skills: 
-R, SQL, QGIS, beginer Python
+R, SQL, QGIS, beginner Python
 
 ### Data Science Skills: 
 Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Business descriptive & inferential statistics | Hypothesis testing | Advance statistical modeling | Cluster analysis | ANOVA & ANCOVA | Regression | Network analysis | Factor analysis | Data mining | Data wrangling | Data visualization 
 
-## Contacts
+### Contacts
 #### Email: satdicha@hawaii.edu
 #### [Linkedin](https://www.linkedin.com/in/manichanhsatdichanh2019/)
 
@@ -64,13 +64,13 @@ Responsibilities: Leading biodiversity & socio-economic surveys | Data managemen
 # Projects
 
 ### [ISland Leaf Ecophysiological Trait Synthesis](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/islets/)
-#### Developing an open access global Island plant functional trait database
+#### Developing an open-access global Island plant functional trait database
 ![IMG_9594](https://github.com/satdichanh/datascience-portfolio.org/assets/50197613/cce102c3-9340-43df-99b5-60a06611fbda)
 
 <br> 
 
 ### [Hawai‘i EPSCoR Project, Functional Trait Analysis](https://hawaii.edu/epscor/functional-trait-analysis/)
-#### Developing Hawaiian plant functional traits database and characterize how plant functional traits vary with environmental condition under climate change
+#### Developing Hawaiian plant functional traits database and characterizing how plant functional traits vary with environmental conditions under climate change
 
 ![IMG_8344](https://github.com/satdichanh/datascience-portfolio.org/assets/50197613/ca2a67f5-6654-4838-bafb-122df753cd2a)
 
