@@ -38,6 +38,7 @@ Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Bus
 #### Postdoctoral Researcher | University of Hawaiʻi | 2023 - present
 - Focusing on exploring various types of meta-analysis approaches with coding in R
 - Developing statistical models, data processing and extraction, and data analysis and publishing scientific papers
+
 #### Affiliate Graduate Faculty | University of Hawaiʻi | 2022 - present
 Responsibilities: Supervise graduate students
 #### Postdoctoral Researcher | ICRAF East & Central Asia | Kunming Institute of Botany, CAS | 2021 - 2023
