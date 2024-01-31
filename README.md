@@ -13,6 +13,7 @@ Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Bus
 
 ### Contacts
 #### Email: satdicha@hawaii.edu
+### [Manichanh Satdichanh](mailto:satdicha@hawaii.edu?subject=[GitHub]satdichanh)
 #### [Linkedin](https://www.linkedin.com/in/manichanhsatdichanh2019/)
 
 <br>
