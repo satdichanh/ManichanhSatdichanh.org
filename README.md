@@ -14,9 +14,14 @@ Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Bus
 <br>
 
 # Data Science Blogs
-[Ecology and Data Science](https://rpubs.com/satdichanhRmarkdown/1142489)
+#### [Ecology and Data Science](https://rpubs.com/satdichanhRmarkdown/1142489)
+#### Business and Data Science
+#### Big Data Analytics with R and SQL
+#### Machine Learning with R
+#### Data Science and Decision Marking
 
 <br>
+
 # Education
 #### Certificate | Business Statistics | Cornell University | 2020
 #### Ph.D | Botany | Plant Community Ecology | Kunming Institute of Botany, CAS | 2019
