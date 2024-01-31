@@ -39,8 +39,7 @@
       &emsp;
       <a href="https://twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ site.twitter_username| escape }}</span></a>
     </ul>
-    {%- endif -%}
-  </div>
+    {% endif %}
         
         {% if site.show_downloads %}
         <ul class="downloads">
