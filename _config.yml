@@ -5,3 +5,13 @@ description: I am a tropical ecologist but a big fan of data science. I believe 
 theme: jekyll-theme-minimal
 
 ##jekyll-theme-minimal 
+
+# Site Author
+author:
+  name             : "Manichanh Satdichanh"
+  bio              : "Postdoctoral Researcher, researching terrestrial plant functional ecology and climate change"
+  employer         : "University of Hawai'i at Manoa"
+#  location         : "Maile Wy, Honolulu, HI 96822"
+  email            : "satdicha@hawaii.edu"
+  github           : "https://github.com/satdichanh"
+  linkedin         : "https://www.linkedin.com/in/manichanhsatdichanh2019/"
