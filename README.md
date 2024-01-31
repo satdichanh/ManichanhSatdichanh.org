@@ -2,11 +2,14 @@
 ## Ecologist / Data Scientist
 Postdoctoral Researcher, University of Hawaii at Manoa
 
+## About me
+I am an ecologist and data scientist studying plant fucntioanl ecology and anthropogenic disturbance under climate change. I have more than 15 years of experience working with various type of national / international organizations and consulting firm with strong rearch professional, data analysis, project management, leadership and critical thinking
+
 ##### Technical Skills: 
 R, SQL, QGIS, beginer Python
 
 ##### Data Science Skills: 
-Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Business descriptive & inferential statistics | Hypothesis testing | Advance statstical modeling | Cluster analysis | ANOVA & ANCOVA | Regression | Network analysis | Factor analysis | Data mining | Data wrangling | Data visualization 
+Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Business descriptive & inferential statistics | Hypothesis testing | Advance statistical modeling | Cluster analysis | ANOVA & ANCOVA | Regression | Network analysis | Factor analysis | Data mining | Data wrangling | Data visualization 
 
 <br>
 
@@ -24,16 +27,16 @@ Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Bus
 
 # Work Experience
 #### Postdoctoral Researcher | University of Hawaiʻi | 2023 - present
-Responsibilities: Developing data analysis protocal | Meta-analysis | Data mining | Data extraction | Data wranging | Data analysis | Writing and publishing scientific papers
+Responsibilities: Developing data analysis protocol | Meta-analysis | Data mining | Data extraction | Data wrangling | Data analysis | Writing and publishing scientific papers
 #### Affiliate Graduate Faculty | University of Hawaiʻi | 2022 - present
 Responsibilities: Supervise graduate students
 #### Postdoctoral Researcher | ICRAF East & Central Asia | Kunming Institute of Botany, CAS | 2021 - 2023
-Responsibilities: Developing data analysis protocal | Data management | Data analysis | Writing and publishing scientific papers | International collaborations
+Responsibilities: Developing data analysis protocol | Data management | Data analysis | Writing and publishing scientific papers | International collaborations
 #### Lecturer | National University of Laos | 2019 - 2020
 #### Team leader | World Agroforestry Centre | Laos - China - Thailand | 2014 – 2016
 Responsibilities: Leading Biophysical surveys | Data management | Developing database | Developing data analysis protocols | Plant identification
 #### Assistant to country director | Triangle Generation Humanitaire - Laos | 2012 – 2013
-Responsibilities: Logistics | Co-supervise the team | Irrigation site survey | Working with local community
+Responsibilities: Logistics | Co-supervise the team | Irrigation site survey | Working with the local community
 
 #### Database developer | Institude Rcherche pour le Developpement au Laos & National University of Laos | 2010 – 2011. 
 
