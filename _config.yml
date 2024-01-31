@@ -1,17 +1,7 @@
 name: true
 title: false
 logo: /Mani/Mani-head.png
-description: I am a tropical ecologist but a big fan of data science. I believe that data-driven decision​ making can help businesses and organizations to be more efficient and have strong control over their future directions
+description: I am an ecologist but a big fan of data science. I believe data-driven decision​ making can help organizations and businesses to be more efficient and have better predictions for their future directions
 theme: jekyll-theme-minimal
 
 ##jekyll-theme-minimal 
-
-# Site Author
-author:
-  name             : "Manichanh Satdichanh"
-  bio              : "Postdoctoral Researcher, researching terrestrial plant functional ecology and climate change"
-  employer         : "University of Hawai'i at Manoa"
-#  location         : "Maile Wy, Honolulu, HI 96822"
-  email            : "satdicha@hawaii.edu"
-  github           : "https://github.com/satdichanh"
-  linkedin         : "https://www.linkedin.com/in/manichanhsatdichanh2019/"
