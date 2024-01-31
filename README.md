@@ -5,11 +5,15 @@ Postdoctoral Researcher, University of Hawaii at Manoa
 ## About me
 I am an ecologist and data scientist studying plant fucntioanl ecology and anthropogenic disturbance under climate change. I have more than 15 years of experience working with various type of national / international organizations and consulting firm with strong rearch professional, data analysis, project management, leadership and critical thinking
 
-##### Technical Skills: 
+### Technical Skills: 
 R, SQL, QGIS, beginer Python
 
-##### Data Science Skills: 
+### Data Science Skills: 
 Bayesian statistics | Machine learning | Spatial analysis | Remote Sensing | Business descriptive & inferential statistics | Hypothesis testing | Advance statistical modeling | Cluster analysis | ANOVA & ANCOVA | Regression | Network analysis | Factor analysis | Data mining | Data wrangling | Data visualization 
+
+## Contacts
+#### Email: satdicha@hawaii.edu
+#### [Linkedin](https://www.linkedin.com/in/manichanhsatdichanh2019/)
 
 <br>
 
