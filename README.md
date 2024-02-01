@@ -3,7 +3,7 @@
 Postdoctoral Researcher, University of Hawaii at Manoa
 
 ### About me
-I am an ecologist and data scientist studying plant functional ecology and anthropogenic disturbance under climate change. I have more than 15 years of experience working with various types of national/international organizations and consulting firms with strong research professional, data analysis, project management, leadership, and critical thinking skills
+I am an ecologist and data scientist studying plant functional ecology and anthropogenic disturbance under climate change. I have more than 15 years of experience working with various types of national/international organizations and consulting firms with strong research professional, data analysis, project management, leadership, and critical thinking skills. I believe that data-driven decision​ making can help organizations and businesses to be more efficient and have better predictions for their future directions!
 
 ### Technical Skills: 
 R, SQL, QGIS, beginner Python
