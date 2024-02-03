@@ -1,9 +1,11 @@
 name: true
 title: false
 logo: /Mani/Mani-head.png
-description: Ecologist and a big fan of data science
-
+description: >
 <br>
+Ecologist and a big fan of data science
+
+<br> <br>
   <a href="https://www.linkedin.com/in/manichanhsatdichanh2019/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
