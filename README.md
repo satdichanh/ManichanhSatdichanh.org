@@ -3,7 +3,7 @@
 Postdoctoral Researcher, University of Hawaii at Manoa
 
 ### About me
-I an ecologist and data scientist with extentive experience and expertise in quantitative and qualitative data analysis. Highly skilled in leading and collaborating with diverse teams and stakeholders, I am passionate about using data-driven decision making to enhance conservation efforts, sustiability and livelihoods, as well as organizational efficiency and improve predictive capabilities for future strategic planning
+I an ecologist and data scientist with extensive experience and expertise in quantitative and qualitative data analysis. Highly skilled in leading and collaborating with diverse teams and stakeholders, I am passionate about using data-driven decision making to enhance conservation efforts, sustainability and livelihoods, as well as organizational efficiency and improve predictive capabilities for future strategic planning
 
 ### Technical Skills: 
 R, SQL, QGIS, beginner Python
